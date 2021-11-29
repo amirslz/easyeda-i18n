@@ -1,19 +1,19 @@
 #Menu
-User =
-Join... =
-Login... =
-Log in =
-Logout =
-Change password... =
-User Preference =
-System Settings... =
-System Settings =
-Crash =
-Invite friends... =
-Language =
-Language Setting =
+User = کاربر
+Join... = پیوستن...
+Login... = ورود...
+Log in = وارد شوید
+Logout = خروج
+Change password... = عوض کردن رمز ورود...
+User Preference = تنظیمات کاربری
+System Settings... =  تنظیمات برنامه...
+System Settings = تنظیمات برنامه
+Crash = 
+Invite friends... = دعوت از دوستان...
+Language = زبان
+Language Setting = تنظیمات زبان
 
-Document Recovery =
+Document Recovery = 
 Your Preferences Information =
 File =
 New =
